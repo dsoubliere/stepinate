@@ -4,6 +4,9 @@ Pagination for journeys in steps.
 
 Appends 'Next' and 'Prev' divs to each of the steps.
 
+## Dependencies
+- jQuery
+
 ## Options
 - **next**, **prev**: the div labels
 - **pageSelector**: selector to look for pages within
